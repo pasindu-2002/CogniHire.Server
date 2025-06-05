@@ -1,0 +1,6 @@
+@CogniHire.Server_HostAddress = http://localhost:5072
+
+GET {{CogniHire.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
